@@ -1,0 +1,7 @@
+describe('Validando el formulario', () => {
+    it('Validar que este la caja de mensaje', () => {
+        cy.visit('https://ljcl79.github.io/primera-pagina-ia-taller-adl/');
+        cy.get('[name="notificaciones"]').check();
+        cy.get('[name="notificaciones"]').should('be.checked');
+    })
+})
