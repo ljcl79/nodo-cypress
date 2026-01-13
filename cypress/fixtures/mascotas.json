@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "name": "Buddy",
+        "species": "Perro",
+        "breed": "Bulldog Francés",
+        "age": "2 años",
+        "gender": "Macho",
+        "location": "Mogi das Cruzes, SP",
+        "description": "Buddy es un bulldog francés muy juguetón y cariñoso. Le encanta pasear y recibir mimos. Es ideal para familias con niños o personas activas. Está castrado y vacunado.",
+        "imageUrl": "https://allpetfood.net/sistema/uploads/448/entradas/razas-perros-bulldog-frances-lunares-blancos-negros-sobre-marmol.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Luna",
+        "species": "Perro",
+        "breed": "Golden Retriever",
+        "age": "1 año",
+        "gender": "Hembra",
+        "location": "São Paulo, SP",
+        "description": "Luna es una golden retriever muy dulce y obediente. Disfruta de los juegos al aire libre y se lleva bien con otros animales. Es una compañera leal y tranquila. Lista para un hogar amoroso.",
+        "imageUrl": "https://i.pinimg.com/originals/6b/d5/06/6bd506c95e5a2b1bd51bd1b770b8d2d5.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Max",
+        "species": "Gato",
+        "breed": "Siamés",
+        "age": "3 años",
+        "gender": "Macho",
+        "location": "Suzano, SP",
+        "description": "Max es un gato siamés elegante y curioso. Le gusta explorar y encontrar lugares cómodos para descansar. Es independiente pero también disfruta de la compañía. Busca un hogar tranquilo.",
+        "imageUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": "4",
+        "name": "Bella",
+        "species": "Gato",
+        "breed": "Persa",
+        "age": "4 años",
+        "gender": "Hembra",
+        "location": "Guararema, SP",
+        "description": "Bella es una gata persa majestuosa y tranquila. Disfruta de la calma y los mimos suaves. Su pelaje requiere un poco de cuidado, pero su dulzura lo compensa. Ideal para un hogar sin mucho alboroto.",
+        "imageUrl": "https://www.whiskas.com.br/sites/g/files/fnmzdf2156/files/2024-08/idade-dos-gatos-01.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Rocky",
+        "species": "Perro",
+        "breed": "Pitbull",
+        "age": "5 años",
+        "gender": "Macho",
+        "location": "Mogi das Cruzes, SP",
+        "description": "Rocky es un pitbull lleno de energía y amor. Necesita un dueño activo que pueda brindarle suficiente ejercicio y entrenamiento. Es leal y protector con su familia. Con el cuidado adecuado, es un compañero excepcional.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_0uoEfz41usD80S0uM21_ZgZ5QRY2Ao7pw&s"
+    }
+]
