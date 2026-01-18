@@ -1,7 +1,7 @@
 describe('Validando el login', () => {
 
     beforeEach(() => {
-        cy.visit('https://adopcion-react-typescript-ia-semana.vercel.app');
+        cy.visit('/');
     });
 
     it('Login de usuarios', () => {
